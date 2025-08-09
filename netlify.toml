@@ -1,6 +1,6 @@
 [build]
   command = "ng build --configuration production"
-  publish = "dist/joker-invitation"  # Adjust if your Angular project name differs
+  publish = "dist/joker"  # Adjust if your Angular project name differs
 
 [[redirects]]
   from = "/*"
